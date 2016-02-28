@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="The Ledger" timestamp="2016-02-28T13:50:32" hostname="localhost" time="0.003" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="The Ledger.Searching" timestamp="2016-02-28T13:50:32" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="The Ledger.Searching" name="Can Be Searched By Name" time="0.002" />
+ </testsuite>
+</testsuites>
